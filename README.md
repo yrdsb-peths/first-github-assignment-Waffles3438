@@ -6,7 +6,7 @@ Do the following to Complete this assignment:
 
 2. Enter your First Name: Benny
 
-3. Enter your favourite animal: Cat
+3. Enter your favourite animal: among us imposter
 
 4. Now click the green 'commit changes' button at the bottom.
 
